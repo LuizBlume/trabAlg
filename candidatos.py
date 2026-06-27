@@ -31,7 +31,7 @@ for i in range(1, 101):
 
     respostas = [random.choice(alternativas) for _ in range(20)]
 
-    candidato = [i, nome, cpf, idade] + respostas
+    candidato = [i, nome] + respostas
 
     candidatos.append(candidato)
 
