@@ -1,0 +1,50 @@
+1ª ETAPA
+
+A equipe definiu que o trabalho seria realizado utilizando a linguagem Python e a estrutura de dados lista, conforme solicitado na atividade.
+
+Foi decidido dividir o desenvolvimento em etapas:
+- geração do gabarito;
+- geração dos candidatos;
+- leitura dos arquivos;
+- cálculo das notas;
+- geração da classificação final.
+
+A lógica utilizada foi:
+- criar uma lista contendo as alternativas A, B, C, D e E;
+- gerar automaticamente o gabarito com 20 respostas;
+- gerar 100 candidatos com respostas aleatórias;
+- salvar os dados em arquivos .txt;
+- comparar as respostas dos candidatos com o gabarito;
+- calcular a nota de cada candidato;
+- ordenar os candidatos pela maior nota;
+- gerar o arquivo final de classificação.
+
+2ª ETAPA
+
+Foi criado o arquivo gabarito.txt contendo 20 alternativas corretas separadas por vírgula.
+
+Exemplo:
+A,B,C,D,E,A,B,C,D,E,A,B,C,D,E,A,B,C,D,E
+
+Também foi criado o arquivo candidatos.txt contendo:
+- ID;
+- nome;
+- respostas das 20 questões.
+
+Exemplo:
+1,João Silva,A,B,C,D,E,A,B,C,D,E,A,B,C,D,E,A,B,C,D,E
+
+3ª ETAPA
+
+Foi desenvolvido o script.py para:
+- ler o arquivo gabarito.txt;
+- ler o arquivo candidatos.txt;
+- calcular a nota dos candidatos;
+- gerar o arquivo classificacao.txt.
+
+Cada questão correta vale 1 ponto, totalizando no máximo 20 pontos.
+
+Ao final da execução são gerados os arquivos:
+- gabarito.txt
+- candidatos.txt
+- classificacao.txt
