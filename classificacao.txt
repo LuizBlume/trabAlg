@@ -1,100 +1,100 @@
-1,Pedro Santos,5
-2,Ana Oliveira,4
-3,Fernanda Rocha,4
-4,Fernanda Rocha,4
-5,Maria Souza,5
-6,Ana Oliveira,3
-7,Maria Souza,3
-8,João Silva,4
-9,Carlos Lima,7
-10,Carlos Lima,6
-11,Maria Souza,6
-12,Maria Souza,3
-13,Carlos Lima,4
-14,Lucas Pereira,3
-15,Carlos Lima,3
-16,Lucas Pereira,2
-17,Maria Souza,4
-18,Maria Souza,3
-19,Pedro Santos,2
-20,Lucas Pereira,6
-21,Pedro Santos,3
-22,Ana Oliveira,6
-23,Pedro Santos,6
-24,Fernanda Rocha,2
-25,Maria Souza,3
-26,Maria Souza,1
-27,Pedro Santos,3
-28,Maria Souza,2
-29,Maria Souza,3
-30,Maria Souza,1
-31,Lucas Pereira,4
-32,Pedro Santos,6
-33,João Silva,5
-34,Ana Oliveira,2
-35,João Silva,1
-36,Juliana Costa,3
-37,Juliana Costa,4
-38,Lucas Pereira,3
-39,Lucas Pereira,2
-40,Juliana Costa,4
-41,Maria Souza,3
-42,Fernanda Rocha,5
-43,Lucas Pereira,2
-44,Carlos Lima,5
-45,Juliana Costa,2
-46,Ana Oliveira,5
-47,Lucas Pereira,3
-48,Lucas Pereira,8
-49,Maria Souza,5
-50,Juliana Costa,3
-51,João Silva,3
-52,João Silva,6
-53,Maria Souza,3
-54,Ana Oliveira,4
-55,Pedro Santos,1
-56,Pedro Santos,3
-57,Pedro Santos,2
-58,Lucas Pereira,4
-59,Lucas Pereira,5
-60,João Silva,3
-61,Maria Souza,5
-62,João Silva,2
-63,João Silva,4
-64,Carlos Lima,2
-65,Maria Souza,8
-66,Fernanda Rocha,5
-67,Carlos Lima,4
-68,Carlos Lima,2
-69,Pedro Santos,7
-70,Carlos Lima,6
-71,Fernanda Rocha,3
-72,Maria Souza,6
-73,Maria Souza,3
-74,Maria Souza,5
-75,Maria Souza,7
-76,Ana Oliveira,5
-77,Fernanda Rocha,3
-78,Maria Souza,3
-79,Juliana Costa,3
-80,Maria Souza,3
-81,Ana Oliveira,6
-82,Lucas Pereira,6
-83,João Silva,5
-84,Ana Oliveira,5
-85,Carlos Lima,0
-86,Ana Oliveira,8
-87,Lucas Pereira,7
-88,Pedro Santos,4
-89,Fernanda Rocha,3
-90,Lucas Pereira,8
-91,Pedro Santos,2
-92,Lucas Pereira,4
-93,Ana Oliveira,3
-94,Fernanda Rocha,3
-95,Juliana Costa,6
-96,Maria Souza,4
-97,Fernanda Rocha,6
-98,Lucas Pereira,4
-99,Juliana Costa,6
-100,Fernanda Rocha,5
+1, Lucas Pereira, 0
+2, Lucas Pereira, 0
+3, Fernanda Rocha, 0
+4, Marcos Alves, 0
+5, Fernanda Rocha, 0
+6, Lucas Pereira, 0
+7, Carlos Lima, 0
+8, Ana Oliveira, 0
+9, João Silva, 0
+10, Fernanda Rocha, 0
+11, Marcos Alves, 0
+12, João Silva, 0
+13, Ana Oliveira, 0
+14, Carlos Lima, 0
+15, Ana Oliveira, 0
+16, Juliana Costa, 0
+17, Carlos Lima, 0
+18, Maria Souza, 0
+19, Juliana Costa, 0
+20, Patricia Mendes, 0
+21, Pedro Santos, 0
+22, Pedro Santos, 0
+23, Marcos Alves, 0
+24, Patricia Mendes, 0
+25, Fernanda Rocha, 0
+26, Maria Souza, 0
+27, Juliana Costa, 0
+28, Lucas Pereira, 0
+29, Patricia Mendes, 0
+30, Pedro Santos, 0
+31, Lucas Pereira, 0
+32, Patricia Mendes, 0
+33, Carlos Lima, 0
+34, João Silva, 0
+35, Maria Souza, 0
+36, Juliana Costa, 0
+37, Ana Oliveira, 0
+38, João Silva, 0
+39, Maria Souza, 0
+40, Carlos Lima, 0
+41, Carlos Lima, 0
+42, Maria Souza, 0
+43, Carlos Lima, 0
+44, Lucas Pereira, 0
+45, Pedro Santos, 0
+46, Fernanda Rocha, 0
+47, Juliana Costa, 0
+48, Maria Souza, 0
+49, João Silva, 0
+50, Pedro Santos, 0
+51, Fernanda Rocha, 0
+52, Juliana Costa, 0
+53, Juliana Costa, 0
+54, Patricia Mendes, 0
+55, Marcos Alves, 0
+56, João Silva, 0
+57, Juliana Costa, 0
+58, João Silva, 0
+59, Maria Souza, 0
+60, Ana Oliveira, 0
+61, Maria Souza, 0
+62, Maria Souza, 0
+63, João Silva, 0
+64, Fernanda Rocha, 0
+65, Patricia Mendes, 0
+66, Fernanda Rocha, 0
+67, Pedro Santos, 0
+68, Pedro Santos, 0
+69, Lucas Pereira, 0
+70, Maria Souza, 0
+71, Ana Oliveira, 0
+72, Lucas Pereira, 0
+73, Marcos Alves, 0
+74, Carlos Lima, 0
+75, Juliana Costa, 0
+76, João Silva, 0
+77, Patricia Mendes, 0
+78, Ana Oliveira, 0
+79, Marcos Alves, 0
+80, Carlos Lima, 0
+81, João Silva, 0
+82, Marcos Alves, 0
+83, Marcos Alves, 0
+84, Pedro Santos, 0
+85, Patricia Mendes, 0
+86, Ana Oliveira, 0
+87, Maria Souza, 0
+88, Carlos Lima, 0
+89, Pedro Santos, 0
+90, Fernanda Rocha, 0
+91, Patricia Mendes, 0
+92, Ana Oliveira, 0
+93, Marcos Alves, 0
+94, Marcos Alves, 0
+95, João Silva, 0
+96, Maria Souza, 0
+97, Pedro Santos, 0
+98, Pedro Santos, 0
+99, Ana Oliveira, 0
+100, Ana Oliveira, 0
